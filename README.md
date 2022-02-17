@@ -1,2 +1,2 @@
-# odin-recipes
-Odin Recipes
+# Recipe Website
+A website showcasing different type of recipes
